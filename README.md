@@ -95,4 +95,7 @@ If you encounter any issues or have questions, please open an issue in the GitHu
 - Consider adding screenshots or diagrams if your application has a graphical user interface.
 
 Feel free to copy and paste this into your `README.md` file! Let me know if you need further adjustments or additional information.
+```
+## Project URL
 
+For more details about the GitHub User Activity project, visit: [Task Tracker Project](https://roadmap.sh/projects/expense-tracker)
